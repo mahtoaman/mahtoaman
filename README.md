@@ -17,9 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/aman-kumar-mahto-53b43b171/" target="blank"><img align="center" src="https://cliply.co/clip/linkedin-icon/" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/amankrm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankrm3" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/" height="30" width="40" /></a>
 <a href="https://instagram.com/iaman_mahto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman_mahto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amankrm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankrm3" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/amankrm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amankrm3" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/x7aFDMQxjc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/x7aFDMQxjc" height="30" width="40" /></a>
