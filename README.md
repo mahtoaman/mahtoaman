@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Nodejs,GitBash**
 
-- 💬 Ask me about **python, java, HTML, CSS**
+- 💬 Ask me about **Python, Java,JavaScript, HTML, CSS**
 
 - 📫 How to reach me **amankrm3@gmail.com**
 
