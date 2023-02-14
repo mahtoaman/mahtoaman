@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amankrm3" target="blank"><img src="https://img.shields.io/twitter/follow/amankrm3?logo=twitter&style=for-the-badge" alt="amankrm3" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **DJango**
 
-- 💬 Ask me about **Nodejs,GitBash, JavaScript, Java, Python, HTML, CSS**
+- 💬 Ask me about **Nodejs,GitBash, JavaScript, Java, Python, HTML, CSS, DSA, ReactJs**
 
 - 📫 How to reach me **amankrm3@gmail.com**
 
