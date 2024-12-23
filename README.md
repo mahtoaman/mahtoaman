@@ -21,7 +21,7 @@
 ### 🌐 Connect With Me:
 <p align="left">
   <a href="https://linkedin.com/in/amanmahto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="https://twitter.com/amankrm3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://twitter.com/amankrm3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" /></a>
   <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
   <a href="https://instagram.com/iaman_mahto" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="30" width="30" /></a>
   <a href="https://www.hackerrank.com/amankrm3" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" height="40" width="40" /></a>
