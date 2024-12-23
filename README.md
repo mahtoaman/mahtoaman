@@ -1,4 +1,5 @@
-![FullStackBanner](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc) 
+![FullStackBanner](https://your-banner-image-url.com) <!-- Replace this with your LinkedIn banner image address -->
+
 <h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
 <h3 align="center">Full-Stack MERN Developer | Freelancer | Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +14,7 @@
 - 🌱 I’m focusing on **Leetcode DSA**
 - 💬 Ask me about **MERN Stack, JavaScript, React.js, Node.js, Java, MongoDB, DSA**
 - 📫 How to reach me: **amankrm3@gmail.com**
-- ⚡ Fun fact: **I enjoy solving complex problems and building efficient solutions**
+- ⚡ Fun fact: **I write code that sometimes works on the first try. It's scary.**
 
 ---
 
@@ -50,34 +51,15 @@
 
 ---
 
-### 📈 Contribution Graph:
-[![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahtoaman&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 💡 Funny Corner:
+- 🐍 "I tried making a snake game in JavaScript. Turns out, I’m just feeding bugs to the snake."
+- 📂 "My repositories are like my fridge: 90% leftovers I’ll never touch, 10% actual meals."
+- ⌛ "Coding time? More like Googling time!"
 
 ---
 
-### 🏆 GitHub Profile Trophy:
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mahtoaman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Note:**  
+1. Replace `your-banner-image-url.com` with your actual LinkedIn banner image address.  
+2. Replace `YOUR_LEETCODE_USERNAME` with your LeetCode username.  
 
----
-
-### 🐍 Contribution Snake:
-![GitHub Snake Animation](https://github.com/mahtoaman/mahtoaman/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📂 Featured Repositories:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mahtoaman&repo=your-repo-name)](https://github.com/mahtoaman/your-repo-name)
-
----
-
-### ⌛ Coding Time:
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)](https://wakatime.com/)
-
----
-
-**Note**:  
-1. Replace `your-banner-image-url.com` with your actual LinkedIn banner URL.  
-2. Replace `YOUR_LEETCODE_USERNAME` and `your-wakatime-username` with your actual usernames.  
-3. Update `your-repo-name` to showcase your repositories.
-
-Let me know if you need further customization!
+Let me know if you need further tweaks! 😊
