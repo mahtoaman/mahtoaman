@@ -1,4 +1,4 @@
-![FullStackBanner](https://your-banner-image-url.com) <!-- Replace this with your LinkedIn banner image address -->
+![FullStackBanner]([https://your-banner-image-url.com](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc)) 
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
 <h3 align="center">Full-Stack MERN Developer | Freelancer | Problem Solver</h3>
@@ -21,10 +21,18 @@
 ### 🌐 Connect With Me:
 <p align="left">
   <a href="https://linkedin.com/in/amanmahto" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
+  
   <a href="https://twitter.com/amankrm3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" width="40" /></a>
+  
+  <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="40" width="40" /></a>
+
   <a href="https://instagram.com/iaman_mahto" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/amankrm3" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_logo.png" alt="HackerRank" height="40" width="40" /></a>
+  
+<a href="https://www.hackerrank.com/amankrm3" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_logo.png" alt="HackerRank" height="40" width="40" /></a>
+
+  
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
 </p>
 
@@ -50,6 +58,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahtoaman&" alt="GitHub Streak" /></p>
 
 ---
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/mahtoaman/mahtoaman/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 
 ### 💡 Funny Corner:
 - 🐍 "I tried making a snake game in JavaScript. Turns out, I’m just feeding bugs to the snake."
