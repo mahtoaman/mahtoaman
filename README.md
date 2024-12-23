@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5391b4dd-1a9d-4512-b295-70419c24129f)![image](https://github.com/user-attachments/assets/9aa4c925-ac3f-4a18-bc48-27fd6430c4eb)![FullStackBanner](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc)
+[FullStackBanner](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc)
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
 <h3 align="center">Full-Stack MERN Developer | Freelancer | Problem Solver</h3>
@@ -19,7 +19,14 @@
 ---
 
 ### 🌐 Connect With Me:
-
+<p align="left">
+  <a href="https://linkedin.com/in/amanmahto" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://twitter.com/amankrm3" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
+  <a href="https://discord.gg/x7aFDMQxjc" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/906/906361.png" alt="Discord" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/amankrm3" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_logo.png" alt="HackerRank" height="40" width="40" /></a>
+  <a href="https://leetcode.com/amanmahto/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
+</p>
 
 ---
 
