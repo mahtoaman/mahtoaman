@@ -1,4 +1,4 @@
-![FullStackBanner](https://your-linkedin-banner-link.com/banner.jpg) <!-- Replace with your actual LinkedIn banner URL -->
+![FullStackBanner](https://www.linkedin.com/in/amanmahto/overlay/background-image/) <!-- Replace with your actual LinkedIn banner URL -->
 
 <h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
 <h3 align="center">Full-Stack MERN Developer | Freelancer | Problem Solver</h3>
