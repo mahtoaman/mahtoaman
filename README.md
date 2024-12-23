@@ -19,14 +19,6 @@
 ---
 
 ### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://linkedin.com/in/amanmahto" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://twitter.com/amankrm3" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC4rmLSBaq6zdfISImvD0Q2w/featured" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" alt="YouTube" height="40" width="40" /></a>
-  <a href="https://discord.gg/x7aFDMQxjc" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/906/906361.png" alt="Discord" height="40" width="40" /></a>
-  <a href="https://www.hackerrank.com/amankrm3" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_logo.png" alt="HackerRank" height="40" width="40" /></a>
-  <a href="https://leetcode.com/amanmahto/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40" /></a>
-</p>
 
 
 ---
