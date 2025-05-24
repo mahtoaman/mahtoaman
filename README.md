@@ -1,5 +1,7 @@
 ![FullStackBanner](https://media.licdn.com/dms/image/v2/D5616AQHO5h_embbnyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715246492240?e=1740614400&v=beta&t=un4-H-D0a4mdgct2Dk_LF7VjjLn6UGEBdTtTcZRxPrc)
 
+![Screenshot of the project's main interface]([https://i.ibb.co/XYZ123/my-project-screenshot.png](https://ibb.co/Z12xqdw0) "Main Project View")
+
 <h1 align="center">Hi 👋, I'm Aman Kumar Mahto</h1>
 <h3 align="center">Full-Stack MERN Developer | Freelancer | Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
